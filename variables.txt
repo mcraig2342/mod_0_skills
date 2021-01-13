@@ -1,0 +1,9 @@
+var food = "Fish and Chips";
+var isDelicious = true;
+food = "Brussels sprouts";
+var num2 = 10;
+var num7 = 35;
+var quotient = (num7 / num2);
+var songs = ["Chosen One", "November has Come", "Ice Age"];
+songs.shift();
+food.length;
