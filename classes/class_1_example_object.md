@@ -1,10 +1,10 @@
 Object : FishAndChips
 
 Attributes:
-foodName "Fish and chips"
-foodFlavor ["Salty", "Savory"]
-price 10.00
-isReady false
+foodName = "Fish and chips"
+foodFlavor = ["Salty", "Savory"]
+price = 10.00
+isReady = false
 
 Methods:
 changeName  foodName = "Fish and Fries"
