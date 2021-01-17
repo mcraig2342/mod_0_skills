@@ -2,7 +2,7 @@ Class: Food
 
 Attributes:
 name (string)
-flavorlavor (array)
+flavor (array)
 price (float)
 isReady (boolean)
 
